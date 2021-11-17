@@ -1,6 +1,7 @@
 # Bi-LSTM-CRF-Models-for-Keyphrase-Extraction-from-Scholarly-Documents
 This is our final project of the course "Probabilistic Graphical Models".
-We try to reproduce the work of Al-Zaidy et al.(2019). Models were trained and tested on KP dataset.
+We try to reproduce the work of [Al-Zaidy et al.(2019)](https://clgiles.ist.psu.edu/pubs/WWW2019.pdf). Models were trained and tested on the scientific
+document dataset KP that was provided by [Meng et al.(2017)](https://arxiv.org/abs/1704.06879).
 
 This Folder contains the preprocessed KP database, Bi_LSTM_CRF model, code of Bi_LSTM_CRF, pretrained models and evaluating results. 
 
